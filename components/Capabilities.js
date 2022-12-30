@@ -48,7 +48,7 @@ export default function Capabilities() {
                     <br />
                     Visual design
                     <br />
-                    Prototypig and testing
+                    Prototyping and testing
                     <br />
                   </p>
                   <h1 className="subHeading">Content</h1>
